@@ -12,3 +12,46 @@ Server running on port 5000
 Using mock notifications
 [2026-05-16T10:32:44.971Z] GET /notifications/priority
 Using mock notifications
+Server running on port 5000
+Server running on port 5000
+[2026-05-16T11:16:54.123Z] GET /notifications
+Using mock notifications
+[2026-05-16T11:16:58.498Z] GET /notifications
+Using mock notifications
+Server running on port 5000
+[2026-05-16T11:24:30.295Z] GET /
+[2026-05-16T11:24:30.419Z] GET /favicon.ico
+[2026-05-16T11:24:58.710Z] GET /api/notifications
+[2026-05-16T11:24:58.714Z] GET /api/notifications
+Server running on port 5000
+[2026-05-16T11:26:43.092Z] GET /
+[2026-05-16T11:26:44.223Z] GET /
+[2026-05-16T11:26:47.069Z] GET /
+[2026-05-16T11:26:50.952Z] GET /api/notifications
+[2026-05-16T11:26:50.981Z] GET /api/notifications
+[2026-05-16T11:28:31.983Z] GET /api/notifications
+[2026-05-16T11:28:31.994Z] GET /api/notifications
+[2026-05-16T11:28:38.196Z] GET /
+[2026-05-16T11:28:41.258Z] GET /api/notifications
+[2026-05-16T11:28:41.274Z] GET /api/notifications
+Server running on port 5000
+[2026-05-16T11:31:30.894Z] GET /
+[2026-05-16T11:31:32.891Z] GET /
+[2026-05-16T11:31:36.560Z] GET /api/notifications
+[2026-05-16T11:31:36.577Z] GET /api/notifications
+[2026-05-16T11:32:08.006Z] GET /api/notifications
+Server running on port 5000
+[2026-05-16T11:35:19.497Z] GET /api/notifications
+Server running on port 5000
+[2026-05-16T11:36:37.522Z] GET /api/notifications
+[2026-05-16T11:36:38.675Z] GET /api/notifications
+[2026-05-16T11:37:00.238Z] GET /api/notifications
+Server running on port 5000
+[2026-05-16T11:39:26.920Z] GET /api/notifications
+Server running on port 5000
+[2026-05-16T11:40:31.210Z] GET /api/notifications
+Server running on port 5000
+[2026-05-16T11:43:22.371Z] GET /api/notifications
+[2026-05-16T11:43:32.138Z] GET /
+[2026-05-16T11:43:41.762Z] GET /notifications/priority
+[2026-05-16T11:43:49.931Z] GET /

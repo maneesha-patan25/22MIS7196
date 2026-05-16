@@ -6,7 +6,7 @@ const loggerMiddleware =
   require("./middleware/loggerMiddleware");
 
 const notificationRoutes =
-  require("./routes/notificationRoutes");
+  require("./routes/notifications");
 
 const app = express();
 
