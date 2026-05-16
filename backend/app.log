@@ -1,0 +1,14 @@
+Server running on port 5000
+[2026-05-16T10:29:30.350Z] GET /
+[2026-05-16T10:29:30.517Z] GET /favicon.ico
+[2026-05-16T10:29:53.109Z] GET /notifications
+Server running on port 5000
+[2026-05-16T10:31:18.179Z] GET /notifications
+Fetch Error: Request failed with status code 401
+[2026-05-16T10:31:19.703Z] GET /notifications
+Fetch Error: Request failed with status code 401
+Server running on port 5000
+[2026-05-16T10:32:33.404Z] GET /notifications
+Using mock notifications
+[2026-05-16T10:32:44.971Z] GET /notifications/priority
+Using mock notifications
